@@ -1,25 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
+    <>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          new-react-app18 and 
-          React is Awesome
-        </a>
-      </header>
+    <a href='https://important-videos-for-3rd-semester-cse.netlify.app/' target='blank'> <button className='btn1'  > My 3rd sem website</button></a> 
+
+
+
     </div>
+    </>
   );
 }
 
